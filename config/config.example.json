@@ -1,0 +1,16 @@
+{
+  "_说明": "复制本文件为 config.json 并填入你自己的 Key。路径留空 = 软件自动在 _tools 下找 adb/scrcpy。",
+  "zhipu": {
+    "base_url": "https://open.bigmodel.cn/api/paas/v4",
+    "model": "autoglm-phone",
+    "chat_model": "glm-4v-flash",
+    "api_key": "在这里填智谱APIKey"
+  },
+  "paths": {
+    "adb": "",
+    "scrcpy": "",
+    "adbkeyboard_apk": ""
+  },
+  "device_id": "",
+  "tools_dir": ""
+}

@@ -1,0 +1,17 @@
+# 开源前必读：这些永远不要提交
+config/config.json      # 你的 API Key
+data/                   # 客户数据/聊天记录/截图（用户资产）
+*.db
+*.db.bak*
+_shots*/
+_shots2/
+_shots3/
+_shots4/
+_shots5/
+_shots_ui/
+build/
+dist/
+__pycache__/
+*.pyc
+Open-AutoGLM/venv/
+.env
